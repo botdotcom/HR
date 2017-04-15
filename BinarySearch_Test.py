@@ -6,7 +6,7 @@ class TestSearch(unittest.TestCase):
 		print "Number to be searched for test1 = 5"
 		self.assertEqual(getInput("input", 5), True)
 	def test2(self):
-		print "Number to be searched for test1 = 5"
+		print "Number to be searched for test2 = 5"
 		self.assertEqual(getInput("random", 5), False)
 
 
@@ -59,13 +59,14 @@ def getInput(filename, key):
 			for line in infile:
 				a.append(int(line))
 		infile.close()
+		print "Original array:\n"
+		print a
 		#sort array
 		s = BinarySearch(a)
 		s.QuickSort(0, len(a)-1)
-		# sort = QuickSort(a)
-		# sort.Quick(0, len(a)-1)
-		#search array for key
-		# search = BinarySearch(a)		
+		print "Sorted array:\n"		
+		print a
+		#search array for key		
 		index = s.Search(key, 0, len(a)-1)
 		if (index+1):
 			print "Number found at ", index
