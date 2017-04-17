@@ -1,3 +1,7 @@
+'''Code for Binary Search algorithm on unordered data read from file.
+The unordered data is sorted using Quick Sort algorithm.
+Unit testing is also performed.
+'''
 import unittest #for unit testing
 
 #class for unit testing
