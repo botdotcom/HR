@@ -1,0 +1,141 @@
+,formatted_address,input_address,latitude,longitude,no_of_results,status
+0,"Church St, Clarkston, GA, USA","b'3895 Church Street, Clarkston, GA 30021, USA'",33.8068315,-84.2411518,1,OK
+1,"Koggiung, Naknek, AK 99633, USA","b'7665 Honey Abbey, Koggiung, MA'",58.86694439999999,-157.0075001,1,OK
+2,"262 S Sea Pines Dr #1701, Hilton Head Island, SC 29928, USA","b'9974 Round Bluff Villas, Hemp, NH'",32.117802,-80.82594499999999,2,OK
+3,"Bombay Ln, Roswell, GA 30076, USA","b'1103 Bombay Lane, Roswell, GA 30076, USA'",34.054491,-84.3367372,1,OK
+4,"Lumpkin, GA 31815, USA","b'8462 Lazy Walk, Lumpkin, VA'",32.0509895,-84.7990901,2,OK
+5,"207 US-302, Glen, NH 03838, USA","b'4716 Cinder Cider Green, Bowbells, NH'",44.104166,-71.196116,1,OK
+6,"Badnation, SD 57585, USA","b'7206 Hidden Alley, Badnation, HI'",43.6516598,-100.3698566,1,OK
+7,"E Baltimore St & Middle St, Taneytown, MD 21787, USA","b'2991 Middle Branch Corner, Baltimore, MS'",39.6584169,-77.174871,5,OK
+8,"Vermont, USA","b'4501 Harvest Lagoon Trail, Screamer, VT'",44.5588028,-72.57784149999999,1,OK
+9,"Spalding Dr, Norcross, GA, USA",b'\xe2\x80\x9c6375 Spalding Drive Suite B Norcross\xe2\x80\x9d',33.9689197,-84.2181926,1,OK
+10,"US-27, United States","b'4675 Highway 27 North, Carrollton, GA'",33.5804015,-85.0785025,1,OK
+11,"5370 Ash St, Forest Park, GA 30297, USA",b'5370 Ash Street',33.6077576,-84.3631616,1,OK
+12,"Mt Vernon Rd, Dunwoody, GA, USA","b'1978 Mount Vernon Road, Atlanta, GA 30338, USA'",33.949983,-84.32072269999999,1,OK
+13,"New Hampshire, USA","b'4827 Indian Wharf, Dew Drop, NH, 03637-1315'",43.1938516,-71.5723953,1,OK
+14,"Sioux Lookout, ON P0V, Canada","b'9418 Lost Stead, Sioux Lookout, ME'",50.0978321,-91.922038,1,OK
+15,"288 Rocky Creek Rd, Greenville, SC 29607, USA","b'3185 Rocky Valley, Bumble Bee, ND'",34.82081900000001,-82.274762,1,OK
+16,"1353 Flowood Dr, Flowood, MS 39232, USA","b'180 Foggy Lane, Line Store, MS'",32.30525,-90.142495,1,OK
+17,"Kentucky, USA","b'4535 Silent Freeway, Bamboo, KY'",37.8393332,-84.2700179,1,OK
+18,"Bright Loop, Raleigh, NC 27613, USA","b'6109 Bright Loop, Gaysport, WV'",35.8841741,-78.7367844,1,OK
+19,"Oklahoma, USA","b'8407 Fallen Moor, Oklahoma, WI'",35.0077519,-97.092877,2,OK
+20,"700 Central Ave, Louisville, KY 40208, USA","b'1761 Wishing Row, Churchill, PA'",38.2029725,-85.7700383,1,OK
+21,"Quail Beach, Tasmania, Australia","b'6704 Little Quail Beach, Khwunrghunme, PA'",-43.2807684,145.8192831,2,OK
+22,"Absaraka, ND, USA","b'5167 Gentle Butterfly Arbor, Absaraka'",46.97763339999999,-97.3953528,1,OK
+23,"6000 E Camelback Rd, Scottsdale, AZ 85251, USA","b'3230 Cotton Diversion, New Market, AZ'",33.5073794,-111.9496355,1,OK
+24,"Dry Prong, LA 71423, USA","b'1684 Colonial Prairie Parade, Dry Prong, SD'",31.5812854,-92.53292019999999,1,OK
+25,"249 Waddell St, Athens, GA 30605, USA","b'249 Waddell Street, Athens, GA'",33.9538198,-83.379277,2,OK
+26,"4134, 5514 Cascade Rd, Lake Placid, NY 12946, United States","b'4889 Burning Horse Circuit, Hanna, NY'",44.26101999999999,-73.962555,1,OK
+27,"Chuloonawick, AK, USA","b'99 Shady Bear Extension, Chuloonawick, GA'",62.94611109999999,-164.1722221,2,OK
+28,"Kracker Station, MS 39117, USA","b'662 Colonial Beacon Highway, Kracker Station, OK'",32.277369,-89.68535089999999,2,OK
+29,"Connecticut, USA","b'2625 Middle Townline, Dot, CT'",41.6032207,-73.087749,1,OK
+30,"Crystal Bay, NV, USA","b'2470 Crystal Bay, Chaplin, MS'",39.2278272,-120.0047095,1,OK
+31,"Hartley Bridge Rd, Macon, GA, USA","b'4368 Hartley Bridge Road, Macon, GA'",32.744045,-83.7239615,1,OK
+32,"Texas, USA","b'8276 Easy Towers, Cantaloupe, TX'",31.9685988,-99.9018131,1,OK
+33,"Glen Comfort, CO 80515, USA","b'6278 Umber Lake Downs, Glen Comfort, TN'",40.3935948,-105.4402726,2,OK
+34,"Powassan, ON P0H 1Z0, Canada","b'3199 Merry Maze, Powassan, UT'",46.0807239,-79.368324,2,OK
+35,"4th, 3514 N Vancouver Ave, Portland, OR 97227, USA","b'1125 Cozy Elk Centre, Wakatomika, SD'",45.5485024,-122.6677464,1,OK
+36,"Rodney Ct, Flat Rock, NC 28731, USA","b'4350 Rocky Ridge, Rodney, CT'",35.2540737,-82.43044410000002,1,OK
+37,"West Virginia, USA","b'9678 Stony Branch Park, Curtin, WV'",38.5976262,-80.4549026,1,OK
+38,"Cloud Chief, OK 73632, USA","b'8447 Lazy Glade, Cloud Chief, ND'",35.2525543,-98.843127,2,OK
+39,"10 Winslow Pl, Weatogue, CT 06089, USA","b'1983 Little Anchor Private, Riverview, CT'",41.8508709,-72.8112566,1,OK
+40,"207 Simmons St, Mt Pleasant, SC 29464, USA","b'4564 Pleasant Sky Front, Counselor, CO'",32.7917685,-79.8756277,1,OK
+41,"21501 Emery Rd, North Randall, OH 44128, USA","b'8335 Heather Edge, Thistledown, WV'",41.436245,-81.530929,2,OK
+42,"Connecticut, USA","b'1967 Grand Rabbit Pointe, Radical, CT'",41.6032207,-73.087749,1,OK
+43,"8th St, Columbus, GA, USA","b'3100 8th Street, Columbus, GA'",32.4616015,-84.9634801,1,OK
+44,"Idahome, ID 83323, USA","b'1203 Cozy Mews, Idahome, VT'",42.41546719999999,-113.3997237,2,OK
+45,"Robin Pkwy, Madison, WI 53705, USA","b'6025 Gentle Robin Parkway, Live Easy, AR'",43.06190429999999,-89.4541327,1,OK
+46,"5726 59th St Ct W, University Place, WA 98467, USA","b'3967 Hidden Vale, Obsidian, MO'",47.203973,-122.512103,2,OK
+47,"Toy Jones Rd, Laurel, MS 39443, USA","b'4896 Shady Drive, Toy, MS'",31.7631839,-89.1446763,1,OK
+48,"Duval County, FL, USA","b'6616 Heather Spring Road, Duval, AZ'",30.3500511,-81.6035062,1,OK
+49,"South Carolina, USA","b'5157 Velvet Place, Fort Fizzle, SC'",33.836081,-81.1637245,1,OK
+50,"Horse Shoe Run, WV 26716, USA","b'2823 Merry Beacon Highlands, Horse Shoe Run, CA'",39.2709385,-79.5142206,2,OK
+51,"306 W Main St, Pen Argyl, PA 18072, USA","b'5756 Old Manor, Star, PA'",40.865085,-75.256188,1,OK
+52,"Swift Bird Rd, Pine Ridge, SD 57770, USA","b'197 Indian Park, Birds Landing, SD'",43.0281074,-102.4555886,4,OK
+53,"Kerrobert, SK S0L 1R0, Canada","b'1290 Dusty Rise, Kerrobert, NJ'",51.9185447,-109.136794,2,OK
+54,"SW Broad Oak Blvd, Oregon 97007, USA","b'4172 Broad Wynd, Beaverton, NE'",45.4723969,-122.8644212,4,OK
+55,"NW 150th St, Opa-locka, FL 33054, USA","b'2450 Northwest 150th Street, Opa-locka, FL'",25.911243,-80.2386156,1,OK
+56,"145 W Pennsylvania Ave, Southern Pines, NC 28387, USA","b'4471 Bright Pines, Pilot Butte, NJ'",35.174722,-79.392493,1,OK
+57,"Prohibition City, Middlefork Township, MO 64456, USA","b'7722 Quaking Arbor, Prohibition City, NJ'",40.4230481,-94.40495829999999,2,OK
+58,"Tumtum, WA, USA","b'5617 Green Range, Tumtum, OH'",47.89119849999999,-117.6843461,1,OK
+59,"N Rocky Brook Dr, Tucson, AZ 85743, USA","b'4190 Rocky Brook Grounds, Trump, AZ'",32.3569275,-111.1235406,1,OK
+60,"Vibank, SK S0G, Canada","b'3074 Middle Pond Corner, Vibank, ID'",50.3341298,-103.9458113,1,OK
+61,"SW 133rd Ct, Miami, FL 33186, USA","b'12303 Southwest 133rd Court, Miami, FL'",25.6544151,-80.4101056,3,OK
+62,"Rocky Ripple, IN 46208, USA","b'7843 Fallen Carrefour, Rocky Ripple, HI'",39.848097,-86.1724881,1,OK
+63,"Coffee City, TX, USA","b'4661 Hazy Autoroute, Coffee City, IL'",32.128173,-95.4987245,2,OK
+64,"Georgia, USA","b'4540 Silent Villas, Cinderella, GA'",32.1656221,-82.9000751,1,OK
+65,"Merry View Ln, Fort Worth, TX 76120, USA","b'2149 Merry View Hill, Klickitat, TX'",32.7393171,-97.1815692,1,OK
+66,"Dill Rd, Indiana, USA","b'239 Green Quay, Dilly, WY'",39.4558163,-86.2544987,9,OK
+67,"Thrashers Corner, Bothell, WA 98021, USA","b'4351 Emerald Beach, Thrashers Corner, AK'",47.8089866,-122.2079056,1,OK
+68,"Osprey Bend, Weston, FL 33327, USA","b'1689 Osprey Bend, Weston, FL'",26.1255986,-80.4163543,1,OK
+69,"Satsop, WA 98541, USA","b'7033 Jagged Turnabout, Satsop, HI'",47.0031512,-123.4834945,1,OK
+70,"Virginia, USA","b'5185 Silver Panda Freeway, Rembrandt, VA'",37.4315734,-78.6568942,1,OK
+71,"Western Australia, Australia","b'3483 Middle Robin Lane, Snow Tent, WA'",-27.6728168,121.6283098,1,OK
+72,"Jupiter, FL 33477, USA","b'75 East Indiantown Road, Concourse Village Shopping Center, Jupiter, FL'",26.9352309,-80.09232519999999,1,OK
+73,"Pennsylvania, USA","b'9561 Amber Leaf Mountain, Hat Creek, PA'",41.2033216,-77.1945247,1,OK
+74,"13 S Gold St, Paola, KS 66071, USA","b'747 Golden Gardens, Village Thirteen, KS'",38.5728826,-94.88017789999999,1,OK
+75,"Chapultepee, Ettrick, WI 54627, USA","b'6143 Tawny Branch Valley, Chapultepee, ID'",44.2230142,-91.2812698,1,OK
+76,"Arizona, USA","b'91 Wishing Plaza, Modest, AZ'",34.0489281,-111.0937311,1,OK
+77,"Clark Dr, Russellville, AL 35654, USA","b'69 Clark Drive, Russellville, AL'",34.4799355,-87.72618179999999,1,OK
+78,"Daysland, AB T0B 1A0, Canada","b'6163 Old Subdivision, Daysland, ME'",52.8655076,-112.2616348,1,OK
+79,"Lumpkin, GA 31815, USA","b'470 Thunder Green, Lumpkin, AR'",32.0509895,-84.7990901,1,OK
+80,"Pennsylvania, USA","b'8868 Colonial Rise Orchard, Land of Pines, PA'",41.2033216,-77.1945247,1,OK
+81,"3177 Lexington Rd, Louisville, KY 40206, USA","b'4390 Sunny Mews, Sacred Heart, KY'",38.2488798,-85.6720162,1,OK
+82,"Rocky Cape TAS 7321, Australia","b'9994 Rocky Cape, Goodtown, TN'",-40.9175428,145.4782351,2,OK
+83,"Missouri, USA","b'4791 Umber Panda Grounds, Chuckanut, MO'",37.9642529,-91.8318334,1,OK
+84,"Gentle Cloud Court, Las Vegas, NV 89148, USA","b'9134 Gentle Cloud Avenue, Speers, MN'",36.0666862,-115.2877145,1,OK
+85,"Drumright, OK 74030, USA","b'6307 Dusty Sky Bend, Drumright, TN'",35.9884013,-96.60112939999999,2,OK
+86,"Prairie, ID 83647, USA","b'9592 Noble Rabbit Crest, X-Prairie, ID'",43.504894,-115.5739813,1,OK
+87,"E 3rd Ave, Crossett, AR 71635, USA","b'107 East 3rd Avenue, Crossett, AR 71635'",33.1325858,-91.958084,1,OK
+88,"Shady Point, OK 74956, USA","b'6628 Shady Point, Weeping Mary, MA'",35.1300975,-94.65855780000001,1,OK
+89,"Contoocook, Hopkinton, NH 03229, USA","b'6140 Thunder Wood, Contoocook, MN'",43.2220234,-71.7139655,2,OK
+90,"Derry, NH 03038, USA","b'91 Tower Dr., Derry, NH 03038'",42.8806437,-71.3273346,1,OK
+91,"Biloxi, MS 39532, USA","b'29 E. Woodsman Street, Biloxi, MS 39532'",30.5007553,-88.96053649999999,1,OK
+92,"Lancaster Rd, Greensboro, NC 27410, USA","b'19 Lancaster Street, Greensboro, NC 27405'",36.0872599,-79.8729393,1,OK
+93,"Chesterton Terrace, Henderson, Auckland 0612, New Zealand","b'811 Swanson St., Chesterton, IN 46304'",-36.8807204,174.6092517,1,OK
+94,"900 Ambassador Dr, Reno, NV 89523, USA","b'470 Locust Drive Reno, NV 89523'",39.5171271,-119.8882089,1,OK
+95,"425 Medical Dr, Bountiful, UT 84010, USA","b'105 Mountainview St., Bountiful, UT 84010'",40.8852511,-111.8667729,1,OK
+96,"Taylor, MI 48180, USA","b'41 Ashley Ave., Taylor, MI 48180'",42.2164077,-83.2720082,1,OK
+97,"Wilmette Ave, Wilmette, IL 60091, USA","b'40 N. Arch Road, Wilmette, IL 60091'",42.0720302,-87.7409028,2,OK
+98,"Madison St, Sulphur, LA 70663, USA","b'7139 Madison Dr. Sulphur, LA 70663'",30.2223211,-93.32974689999999,1,OK
+99,"Hill Rd, Owosso, MI 48867, USA","b'838 Corona Rd. Owosso, MI 48867'",43.107943,-84.1388657,1,OK
+100,"47 Caballo Rd, Cimarron, NM 87714, USA","b'59 E. Philmont Rd., Edison, NJ 08817'",36.4540472,-104.958052,2,OK
+101,"Chesterfield, VA 23832, USA","b'7474 Carpenter St. Chesterfield, VA 23832'",37.3770935,-77.5049863,1,OK
+102,"B-17 Alliance Museum & Restoration Hangar, 3278 25th St SE, Salem, OR 97302, USA","b'17 Gonzales Street Oak Lawn, IL 60453'",44.9084113,-123.0082676,1,OK
+103,"30 Jackson Rd, Medford, NJ 08055, USA","b'17 Pennsylvania Dr., Vincentown, NJ 08088'",39.8746376,-74.8177825,2,OK
+104,"Alabaster, AL 35007, USA","b'58 Thorne St. Alabaster, AL 35007'",33.2288218,-86.7919009,1,OK
+105,"1100 W Saginaw St # 630, Lansing, MI 48915, USA","b'364 Gonzales Rd. Lansing, MI 48910'",42.7413329,-84.5675442,1,OK
+106,"Anna's Alley, Frederick, MD 21701, USA","b'82 Ann Drive, Frederick, MD 21701'",39.4606596,-77.38933050000001,1,OK
+107,"Armstrong St, Omaha, NE 68116, USA","b'186 Armstrong Street Omaha, NE 68107'",41.3039161,-96.1554269,1,OK
+108,"Roosevelt Ave, Joliet, IL 60435, USA","b'833 N. Roosevelt Ave., Joliet, IL 60435'",41.5416966,-88.1123533,1,OK
+109,"Helen Ave, Yuba City, CA 95991, USA","b'76 Helen St. Yua, City, CA 95993'",39.1258583,-121.6279333,1,OK
+110,"Greenwood, SC, USA","b'9825 Ridgeview St., Greenwood, SC 29646'",34.1954001,-82.1617883,1,OK
+111,"Sugar Ln, Sturgis, MI 49091, USA","b'9675 Sugar Court, Saint Joseph, MI 49085'",41.8138723,-85.5093883,2,OK
+112,"1277 Wellbrook Cir B, Conyers, GA 30012, USA","b'154 Brickyard Dr., Conyers, GA 30012'",33.6775753,-84.00313489999999,1,OK
+113,"2874 Main St, Stratford, CT 06614, USA","b'758 Walnutwood Lane, Stratford, CT 06614'",41.1995528,-73.1306731,1,OK
+114,"Airport Rd, Adrian, MI 49221, USA","b'304 Airport St., Adrian, MI 49221'",41.8817432,-84.0642261,1,OK
+115,"Augusta Dr, Statesville, NC 28625, USA","b'618 Augusta Lane, Mooresville, NC 28115'",35.7933995,-80.82355330000001,1,OK
+116,"Camas, WA, USA","b'781 Bedford Street, Camas, WA 98607'",45.5874666,-122.4045037,1,OK
+117,"56 Federal St, Salem, MA 01970, USA","b'881 West Pennsylvania Court, Salem, MA 01970'",42.5233226,-70.8966427,1,OK
+118,"S Shore Blvd, Monroe Township, NJ 08831, USA","b'78 Shore Ave., Monroe Township, NJ 08831'",40.3773946,-74.4088314,1,OK
+119,"Gibsonia, PA 15044, USA","b'81 Jefferson Ave., Gibsonia, PA 15044'",40.6300567,-79.9703318,1,OK
+120,"Bald Eagle Point Rd, Omaha, AR 72662, USA","b'9337 Bald Hill Road, Omaha, NE 68107'",36.4943769,-93.2936646,1,OK
+121,"Valley Stream, NY 11580, USA","b'61 Fawn St. Valley, Stream, NY 11580'",40.67103789999999,-73.706594,1,OK
+122,"Saginaw, MI, USA","b'422 Longbranch St. Saginaw, MI 48601'",43.4194699,-83.9508068,1,OK
+123,"N Oakland St, Arlington, VA 22203, USA","b'23 N. Oakland Street Upper Marlboro, MD 20772'",38.8764837,-77.1035176,2,OK
+124,"113-72 Queens Blvd, Forest Hills, NY 11375, USA","b'319 SE. York Lane Jackson Heights, NY 11372'",40.7171983,-73.8353779,1,OK
+125,"4217 Main Ave, Ashtabula, OH 44004, USA","b'132 South Center Ave., Ashtabula, OH 44004'",41.8691343,-80.7812326,1,OK
+126,"Miller Ave, Elmwood Park, NJ 07407, USA","b'651 Miller Drive, Garfield, NJ 07026'",40.9085685,-74.12152379999999,3,OK
+127,"Goose Creek, SC 29445, USA","b'585 Warren St., Goose Creek, SC 29445'",33.0026132,-79.99759159999999,1,OK
+128,"Marlton, Evesham Township, NJ, USA","b'362 Richardson Drive, Marlton, NJ 08053'",39.8912248,-74.9218324,1,OK
+129,"Hill Ave, Bartlett, IL 60103, USA","b'274 Pumpkin Hill Ave., Bartlett, IL 60103'",41.979744,-88.1726456,1,OK
+130,"E Elm Ln, Wayzata, MN 55391, USA","b'73 E. Elm Lane Saint Paul, MN 55104'",44.9715899,-93.5031638,4,OK
+131,"Devonshire Dr, Huntersville, NC 28078, USA","b'9905 Devonshire Dr. Huntersville, NC 28078'",35.4362848,-80.88096449999999,1,OK
+132,"710 Franklin St, Michigan City, IN 46360, USA","b'710 Franklin St. Osseo, MN 55311'",41.7148113,-86.90014420000001,2,OK
+133,"81 Homewood Ave, Napa, CA 94558, USA","b'81 Homewood Drive, Helotes, TX 78023'",38.294754,-122.3067876,2,OK
+134,"20147 Nichols Farm Way, Ashburn, VA 20148, USA","b'9549 Nicolls Dr., Ashburn, VA 20147'",38.9863076,-77.518192,1,OK
+135,"Andover Ln, Huntsville, AL 35811, USA","b'669 Andover Street, Huntsville, AL 35803'",34.8232375,-86.5126762,1,OK
+136,"Mt Pilgrim Church Rd, Marietta, SC 29661, USA","b'15 Pilgrim Dr. Greenville, NC 27834'",35.0484164,-82.50528109999999,2,OK
+137,"Newark, NJ 07103, USA","b'88 Glenholme Street, Newark, NJ 07103'",40.7383636,-74.197388,1,OK
+138,"N 8th Ave, Edison, NJ, USA","b'8747 8th Lane Edison, NJ 08817'",40.5090885,-74.4232189,1,OK
+139,"White Oak Way, North Attleborough, MA 02760, USA","b'8732 White Ave. North Attleboro, MA 02760'",41.9925953,-71.2943142,1,OK

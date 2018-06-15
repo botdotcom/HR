@@ -1,0 +1,21 @@
+,formatted_address,input_address,latitude,longitude,no_of_results,status,type
+0,"262 S Sea Pines Dr #1701, Hilton Head Island, SC 29928, USA","b'9974 Round Bluff Villas, Hemp, NH'",32.117802,-80.82594499999999,2,OK,ROOFTOP
+1,"207 US-302, Glen, NH 03838, USA","b'4716 Cinder Cider Green, Bowbells, NH'",44.104166,-71.196116,1,OK,ROOFTOP
+2,"5370 Ash St, Forest Park, GA 30297, USA",b'5370 Ash Street',33.6077576,-84.3631616,1,OK,ROOFTOP
+3,"288 Rocky Creek Rd, Greenville, SC 29607, USA","b'3185 Rocky Valley, Bumble Bee, ND'",34.82081900000001,-82.274762,1,OK,ROOFTOP
+4,"1353 Flowood Dr, Flowood, MS 39232, USA","b'180 Foggy Lane, Line Store, MS'",32.30525,-90.142495,1,OK,ROOFTOP
+5,"700 Central Ave, Louisville, KY 40208, USA","b'1761 Wishing Row, Churchill, PA'",38.2029725,-85.7700383,1,OK,ROOFTOP
+6,"6000 E Camelback Rd, Scottsdale, AZ 85251, USA","b'3230 Cotton Diversion, New Market, AZ'",33.5073794,-111.9496355,1,OK,ROOFTOP
+7,"249 Waddell St, Athens, GA 30605, USA","b'249 Waddell Street, Athens, GA'",33.9538198,-83.379277,2,OK,ROOFTOP
+8,"4134, 5514 Cascade Rd, Lake Placid, NY 12946, United States","b'4889 Burning Horse Circuit, Hanna, NY'",44.26101999999999,-73.962555,1,OK,ROOFTOP
+9,"4th, 3514 N Vancouver Ave, Portland, OR 97227, USA","b'1125 Cozy Elk Centre, Wakatomika, SD'",45.5485024,-122.6677464,1,OK,ROOFTOP
+10,"10 Winslow Pl, Weatogue, CT 06089, USA","b'1983 Little Anchor Private, Riverview, CT'",41.8508709,-72.8112566,1,OK,ROOFTOP
+11,"207 Simmons St, Mt Pleasant, SC 29464, USA","b'4564 Pleasant Sky Front, Counselor, CO'",32.7917685,-79.8756277,1,OK,ROOFTOP
+12,"21501 Emery Rd, North Randall, OH 44128, USA","b'8335 Heather Edge, Thistledown, WV'",41.436245,-81.530929,2,OK,ROOFTOP
+13,"5726 59th St Ct W, University Place, WA 98467, USA","b'3967 Hidden Vale, Obsidian, MO'",47.203973,-122.512103,2,OK,ROOFTOP
+14,"306 W Main St, Pen Argyl, PA 18072, USA","b'5756 Old Manor, Star, PA'",40.865085,-75.256188,1,OK,ROOFTOP
+15,"145 W Pennsylvania Ave, Southern Pines, NC 28387, USA","b'4471 Bright Pines, Pilot Butte, NJ'",35.174722,-79.392493,1,OK,ROOFTOP
+16,"3177 Lexington Rd, Louisville, KY 40206, USA","b'4390 Sunny Mews, Sacred Heart, KY'",38.2488798,-85.6720162,1,OK,ROOFTOP
+17,"900 Ambassador Dr, Reno, NV 89523, USA","b'470 Locust Drive Reno, NV 89523'",39.5171271,-119.8882089,1,OK,ROOFTOP
+18,"425 Medical Dr, Bountiful, UT 84010, USA","b'105 Mountainview St., Bountiful, UT 84010'",40.8852511,-111.8667729,1,OK,ROOFTOP
+19,"47 Caballo Rd, Cimarron, NM 87714, USA","b'59 E. Philmont Rd., Edison, NJ 08817'",36.4540472,-104.958052,2,OK,ROOFTOP

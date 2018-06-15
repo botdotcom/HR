@@ -1,0 +1,30 @@
+,formatted_address,input_address,latitude,longitude,no_of_results,status,type
+0,"262 S Sea Pines Dr #1701, Hilton Head Island, SC 29928, USA","b'9974 Round Bluff Villas, Hemp, NH'",32.117802,-80.82594499999999,2,OK,ROOFTOP
+1,"207 US-302, Glen, NH 03838, USA","b'4716 Cinder Cider Green, Bowbells, NH'",44.104166,-71.196116,1,OK,ROOFTOP
+2,"5370 Ash St, Forest Park, GA 30297, USA",b'5370 Ash Street',33.6077576,-84.3631616,1,OK,ROOFTOP
+3,"288 Rocky Creek Rd, Greenville, SC 29607, USA","b'3185 Rocky Valley, Bumble Bee, ND'",34.82081900000001,-82.274762,1,OK,ROOFTOP
+4,"1353 Flowood Dr, Flowood, MS 39232, USA","b'180 Foggy Lane, Line Store, MS'",32.30525,-90.142495,1,OK,ROOFTOP
+5,"700 Central Ave, Louisville, KY 40208, USA","b'1761 Wishing Row, Churchill, PA'",38.2029725,-85.7700383,1,OK,ROOFTOP
+6,"6000 E Camelback Rd, Scottsdale, AZ 85251, USA","b'3230 Cotton Diversion, New Market, AZ'",33.5073794,-111.9496355,1,OK,ROOFTOP
+7,"249 Waddell St, Athens, GA 30605, USA","b'249 Waddell Street, Athens, GA'",33.9538198,-83.379277,2,OK,ROOFTOP
+8,"4134, 5514 Cascade Rd, Lake Placid, NY 12946, United States","b'4889 Burning Horse Circuit, Hanna, NY'",44.26101999999999,-73.962555,1,OK,ROOFTOP
+9,"4th, 3514 N Vancouver Ave, Portland, OR 97227, USA","b'1125 Cozy Elk Centre, Wakatomika, SD'",45.5485024,-122.6677464,1,OK,ROOFTOP
+10,"10 Winslow Pl, Weatogue, CT 06089, USA","b'1983 Little Anchor Private, Riverview, CT'",41.8508709,-72.8112566,1,OK,ROOFTOP
+11,"207 Simmons St, Mt Pleasant, SC 29464, USA","b'4564 Pleasant Sky Front, Counselor, CO'",32.7917685,-79.8756277,1,OK,ROOFTOP
+12,"21501 Emery Rd, North Randall, OH 44128, USA","b'8335 Heather Edge, Thistledown, WV'",41.436245,-81.530929,2,OK,ROOFTOP
+13,"5726 59th St Ct W, University Place, WA 98467, USA","b'3967 Hidden Vale, Obsidian, MO'",47.203973,-122.512103,2,OK,ROOFTOP
+14,"306 W Main St, Pen Argyl, PA 18072, USA","b'5756 Old Manor, Star, PA'",40.865085,-75.256188,1,OK,ROOFTOP
+15,"145 W Pennsylvania Ave, Southern Pines, NC 28387, USA","b'4471 Bright Pines, Pilot Butte, NJ'",35.174722,-79.392493,1,OK,ROOFTOP
+16,"3177 Lexington Rd, Louisville, KY 40206, USA","b'4390 Sunny Mews, Sacred Heart, KY'",38.2488798,-85.6720162,1,OK,ROOFTOP
+17,"900 Ambassador Dr, Reno, NV 89523, USA","b'470 Locust Drive Reno, NV 89523'",39.5171271,-119.8882089,1,OK,ROOFTOP
+18,"425 Medical Dr, Bountiful, UT 84010, USA","b'105 Mountainview St., Bountiful, UT 84010'",40.8852511,-111.8667729,1,OK,ROOFTOP
+19,"47 Caballo Rd, Cimarron, NM 87714, USA","b'59 E. Philmont Rd., Edison, NJ 08817'",36.4540472,-104.958052,2,OK,ROOFTOP
+20,"B-17 Alliance Museum & Restoration Hangar, 3278 25th St SE, Salem, OR 97302, USA","b'17 Gonzales Street Oak Lawn, IL 60453'",44.9084113,-123.0082676,1,OK,ROOFTOP
+21,"30 Jackson Rd, Medford, NJ 08055, USA","b'17 Pennsylvania Dr., Vincentown, NJ 08088'",39.8746376,-74.8177825,2,OK,ROOFTOP
+22,"1100 W Saginaw St # 630, Lansing, MI 48915, USA","b'364 Gonzales Rd. Lansing, MI 48910'",42.7413329,-84.5675442,1,OK,ROOFTOP
+23,"1277 Wellbrook Cir B, Conyers, GA 30012, USA","b'154 Brickyard Dr., Conyers, GA 30012'",33.6775753,-84.00313489999999,1,OK,ROOFTOP
+24,"2874 Main St, Stratford, CT 06614, USA","b'758 Walnutwood Lane, Stratford, CT 06614'",41.1995528,-73.1306731,1,OK,ROOFTOP
+25,"56 Federal St, Salem, MA 01970, USA","b'881 West Pennsylvania Court, Salem, MA 01970'",42.5233226,-70.8966427,1,OK,ROOFTOP
+26,"4217 Main Ave, Ashtabula, OH 44004, USA","b'132 South Center Ave., Ashtabula, OH 44004'",41.8691343,-80.7812326,1,OK,ROOFTOP
+27,"710 Franklin St, Michigan City, IN 46360, USA","b'710 Franklin St. Osseo, MN 55311'",41.7148113,-86.90014420000001,2,OK,ROOFTOP
+28,"81 Homewood Ave, Napa, CA 94558, USA","b'81 Homewood Drive, Helotes, TX 78023'",38.294754,-122.3067876,2,OK,ROOFTOP
